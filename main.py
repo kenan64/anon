@@ -3,6 +3,7 @@ from telebot import types
 import random
 import logging
 from datetime import datetime
+import os
 
 # Настройка логирования
 logging.basicConfig(
