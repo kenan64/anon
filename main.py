@@ -16,7 +16,6 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Инициализация бота
-TOKEN = '8037209261:AAFAKa_myoDNyu0Bmqss-pbBxNZuxFhn67k'
 bot = telebot.TeleBot(TOKEN)
 
 # Словари и списки
